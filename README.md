@@ -77,14 +77,6 @@ The analysis covers:
 - Interactive Excel dashboard
 - Business insights and recommendations
 
-## Project Status
-
-**In Progress** — Currently working on project understanding and business objectives. Data auditing, cleaning, analysis, and dashboard development will follow.
-
----
-
-*This project is developed as part of a Data Analyst portfolio to demonstrate practical data analysis skills using Microsoft Excel.*
-
 
 ## Duplicate Check
 
@@ -98,3 +90,14 @@ The analysis identified 4 potentially duplicate records across 2 groups:
 | 121098 | BOLA LAMPU | 2 |
 
 These records were flagged for further validation. No records were removed during this stage to avoid accidentally deleting valid transactions.
+
+## Project Status
+
+**In Progress** — Currently working on project understanding and business objectives. Data auditing, cleaning, analysis, and dashboard development will follow.
+
+---
+
+*This project is developed as part of a Data Analyst portfolio to demonstrate practical data analysis skills using Microsoft Excel.*
+
+
+
