@@ -91,6 +91,22 @@ The analysis identified 4 potentially duplicate records across 2 groups:
 
 These records were flagged for further validation. No records were removed during this stage to avoid accidentally deleting valid transactions.
 
+
+
+## Missing Values Assessment
+
+The data quality assessment identified missing and NULL values in several transaction fields.
+
+| Column | Blank Cells | Text NULL | Total |
+|---|---:|---:|---:|
+| kd_barang | 3,289 | 0 | 3,289 |
+| nama_barang | 17 | 0 | 17 |
+| kode_mobil | 50 | 3,288 | 3,338 |
+| merk | 50 | 3,288 | 3,338 |
+| satuan | 0 | 3,309 | 3,309 |
+
+These missing values may affect product identification, vehicle classification, and unit-level analysis. They will be considered during the data cleaning stage.
+
 ## Project Status
 
 **In Progress** — Currently working on project understanding and business objectives. Data auditing, cleaning, analysis, and dashboard development will follow.
