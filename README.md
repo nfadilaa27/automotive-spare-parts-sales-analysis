@@ -107,6 +107,15 @@ The data quality assessment identified missing and NULL values in several transa
 
 These missing values may affect product identification, vehicle classification, and unit-level analysis. They will be considered during the data cleaning stage.
 
+
+## Duplicate Handling
+
+Two groups of potentially duplicated transaction records were identified during the data quality assessment.
+
+Since the original transaction receipts were unavailable, these records were retained to avoid removing potentially valid transactions.
+
+The duplicate status remains unverified and is considered a data quality limitation.
+
 ## Project Status
 
 **In Progress** — Currently working on project understanding and business objectives. Data auditing, cleaning, analysis, and dashboard development will follow.
