@@ -135,6 +135,13 @@ All 10,418 transaction records passed the date format validation.
 
 The transaction date column contains valid Excel date values and is ready for time-based analysis.
 
+
+## Dataset Time Period
+
+The dataset covers sales transactions from October 2019 to December 2019.
+
+This three-month period will be used as the scope of the sales performance analysis.
+
 ## Project Status
 
 **In Progress** — Currently working on project understanding and business objectives. Data auditing, cleaning, analysis, and dashboard development will follow.
