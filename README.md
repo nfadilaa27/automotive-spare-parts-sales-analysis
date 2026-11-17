@@ -84,3 +84,17 @@ The analysis covers:
 ---
 
 *This project is developed as part of a Data Analyst portfolio to demonstrate practical data analysis skills using Microsoft Excel.*
+
+
+## Duplicate Check
+
+A duplicate check was performed across the 12 transaction fields.
+
+The analysis identified 4 potentially duplicate records across 2 groups:
+
+| Invoice ID | Product Name | Duplicate Records |
+|---|---|---:|
+| 120156 | AS KOPEL LUAR | 2 |
+| 121098 | BOLA LAMPU | 2 |
+
+These records were flagged for further validation. No records were removed during this stage to avoid accidentally deleting valid transactions.
