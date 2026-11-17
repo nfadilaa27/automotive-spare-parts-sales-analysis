@@ -116,6 +116,17 @@ Since the original transaction receipts were unavailable, these records were ret
 
 The duplicate status remains unverified and is considered a data quality limitation.
 
+
+
+## Transaction Value Validation
+
+The transaction value validation confirmed that all 10,418 records have consistent total values.
+
+- Matching records: 10,418
+- Mismatched records: 0
+
+The validation confirms that the recorded transaction totals match the calculated values based on quantity multiplied by selling price.
+
 ## Project Status
 
 **In Progress** — Currently working on project understanding and business objectives. Data auditing, cleaning, analysis, and dashboard development will follow.
