@@ -185,6 +185,15 @@ The dataset covers sales transactions from October 2019 to December 2019.
 
 This three-month period will be used as the scope of the sales performance analysis.
 
+## Product Performance Analysis
+
+### Top 10 Products by Revenue
+
+![Top 10 Products by Revenue](images/top-10-products-by-revenue.png)
+
+### Top 10 Products by Quantity Sold
+
+![Top 10 Products by Quantity Sold](images/top-10-products-by-quantity.png)
 
 ### Product Performance Insights
 
