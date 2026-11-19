@@ -9,9 +9,8 @@ This project focuses on analyzing historical sales transaction data from an auto
 The analysis aims to evaluate sales performance, identify top-performing products, understand transaction patterns, and generate business insights to support better sales and inventory management decisions.
 
 
-# Executive Summary
+## Executive Summary
 
-## Automotive Spare Parts Sales Analysis
 
 This project analyzes automotive spare parts sales data to identify sales performance trends, evaluate product performance, and generate business insights to support better business decisions.
 
@@ -145,7 +144,11 @@ The data quality assessment identified missing and NULL values in several transa
 | merk | 50 | 3,288 | 3,338 |
 | satuan | 0 | 3,309 | 3,309 |
 
-These missing values may affect product identification, vehicle classification, and unit-level analysis. They will be considered during the data cleaning stage.
+These missing values may affect product identification, vehicle classification, and unit-level analysis.
+
+To address these issues, helper columns were created during the data cleaning process. Blank and NULL values in selected fields were standardized as "Unknown" to maintain data consistency and preserve all transaction records.
+
+The original dataset was retained, while the cleaned values were used for further analysis.
 
 
 ## Duplicate Handling
