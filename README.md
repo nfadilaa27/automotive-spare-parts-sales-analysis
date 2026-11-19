@@ -142,6 +142,27 @@ The dataset covers sales transactions from October 2019 to December 2019.
 
 This three-month period will be used as the scope of the sales performance analysis.
 
+
+### Product Performance Insights
+
+1. **Top Revenue-Generating Product**  
+   KAIN KOPLING (CLUTCH DISC) generated the highest revenue, reaching Rp74.05 million, followed by MATAHARI (CLUTCH COVER) at Rp61.96 million.
+
+2. **Highest Sales Volume**  
+   TERMINAL GEPENG recorded the highest sales volume with 500 units sold, followed by BUSI with 447 units.
+
+3. **Revenue vs. Sales Volume**  
+   The products generating the highest revenue are not necessarily the products with the highest sales volume. This indicates differences in sales value across products.
+
+4. **Top 10 Revenue Contribution**  
+   The top 10 revenue-generating products contributed 15.53% of total revenue, indicating that revenue was distributed across a broader range of products.
+
+### Business Recommendations
+
+- Monitor stock availability for high-volume products to reduce the risk of stockouts.
+- Evaluate pricing and sales performance of high-revenue products.
+- Review product performance regularly to support purchasing and inventory planning.
+
 ## Project Status
 
 **In Progress** — Currently working on project understanding and business objectives. Data auditing, cleaning, analysis, and dashboard development will follow.
