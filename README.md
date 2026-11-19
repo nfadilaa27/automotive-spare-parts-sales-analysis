@@ -8,6 +8,46 @@ This project focuses on analyzing historical sales transaction data from an auto
 
 The analysis aims to evaluate sales performance, identify top-performing products, understand transaction patterns, and generate business insights to support better sales and inventory management decisions.
 
+
+# Executive Summary
+
+## Automotive Spare Parts Sales Analysis
+
+This project analyzes automotive spare parts sales data to identify sales performance trends, evaluate product performance, and generate business insights to support better business decisions.
+
+Using Microsoft Excel, the analysis covers 10,418 sales records from October to December 2019.
+
+### Key Performance Indicators
+
+- **Total Revenue:** Rp2,137,397,166
+- **Total Transactions:** 4,174
+- **Total Quantity Sold:** 19,120 units
+- **Average Transaction Value (ATV):** Rp512,074.07
+- **Average Selling Price (ASP):** Rp111,788.55
+
+### Key Findings
+
+- October recorded the highest monthly revenue at Rp753.49 million.
+- Total transactions increased consistently from October to December, while revenue experienced fluctuations.
+- KAIN KOPLING (CLUTCH DISC) generated the highest product revenue at Rp74.05 million.
+- TERMINAL GEPENG recorded the highest sales volume with 500 units sold.
+- The top 10 revenue-generating products contributed 15.53% of total revenue.
+
+### Business Recommendations
+
+- Monitor inventory levels of high-volume products to minimize stockout risks.
+- Evaluate product sales performance to support purchasing decisions.
+- Monitor monthly revenue and transaction trends to identify changes in sales performance.
+- Improve product data completeness to support more accurate sales reporting and analysis.
+
+### Tools Used
+
+- Microsoft Excel
+- PivotTables
+- Excel Formulas
+- Data Cleaning and Validation
+- Data Visualization
+
 ## Business Background
 
 An automotive spare parts store manages various products with different sales volumes and demand patterns. Understanding these patterns is important for monitoring business performance and supporting effective inventory management.
